@@ -26,7 +26,7 @@ class _MapPageState extends State<MapPage> {
           children: [
             const DrawerHeader(
                 decoration: BoxDecoration(
-                  color: Colors.blue,
+                  color: Colors.tealAccent,
                 ),
                 child: Text("Menu")),
             ListTile(
