@@ -7,8 +7,8 @@ track team mates and manage tactical planning.
 
 ## Developed By
 
-### Ty
+### Ty Marley
 
-### Toby
+### Toby Painter
 
 ### Charles Fletcher
