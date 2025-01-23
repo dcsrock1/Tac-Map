@@ -9,6 +9,6 @@ track team mates and manage tactical planning.
 
 ### Ty
 
-### Toby
+### Toby Painter
 
 ### Charles Fletcher
